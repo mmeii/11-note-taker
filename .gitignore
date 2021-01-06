@@ -1,3 +1,9 @@
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
 # Logs
 logs
 *.log
@@ -102,3 +108,5 @@ dist
 
 # TernJS port file
 .tern-port
+
+hw11.code-workspace
