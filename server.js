@@ -1,6 +1,7 @@
 //Dependencies
 const express = require('express');
 const path = require('path');
+const fs = require('fs');
 
 //set up express app
 const app = express();
@@ -12,7 +13,7 @@ app.use(express.json());
 
 //routers
 
-require("./routes/apiRoutes")(app);
+// require("./routes/apiRoutes")(app);
 require("./routes/htmlRoutes")(app);
 
 // The application should have a db.json file on the backend that will be used to store and retrieve notes using the fs module.
