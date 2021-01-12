@@ -17,7 +17,7 @@ An application that can be used to write, save, and delete notes. This applicati
   `http://localhost:3000/`
 
 * Demo of application
-  ![Note Taker Demo](Assets/note-taker-demo.gif)
+  ![Note Taker Demo](./public/assets/note-taker-demo.gif)
 
 * Websites
   * [Github](https://github.com/mmeii/11-note-taker)
