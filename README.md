@@ -20,7 +20,7 @@ An application that can be used to write, save, and delete notes. This applicati
   ![Note Taker Demo](./public/assets/note-taker-demo.gif)
 
 * Websites
-  * [Github](https://github.com/mmeii/11-note-taker)
+  * [Github](https://github.com/mmeii/note-taker)
   * [Live Heroku App](https://murmuring-falls-28433.herokuapp.com/)
 
 ## Features
